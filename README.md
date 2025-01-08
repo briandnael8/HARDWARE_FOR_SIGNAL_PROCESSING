@@ -83,4 +83,28 @@ LeNet-5, proposed by Yann LeCun in 1998, is a classical CNN architecture designe
 1. Clone the repository:
    ```bash
    git clone https://github.com/briandnael8/HARDWARE_FOR_SIGNAL_PROCESSING.git
-   cd LeNet5-CUDA
+   cd TP_CUDA
+2. Compile
+   nvcc main.cu -o main
+3. Run the program
+   ./main
+   
+---
+
+## **Future Work**
+- Implement the training phase of LeNet-5 on CUDA.
+- Extend the implementation to other CNN architectures.
+- Optimize GPU memory usage with shared memory.
+- Address weight import issues for accurate predictions.
+
+---
+
+## **Authors**
+- Quentin de La Chaise
+- Naël Briand
+
+For inquiries, contact us at:
+quentin.delachaise@ensea.fr
+nael.briand@ensea.fr
+
+

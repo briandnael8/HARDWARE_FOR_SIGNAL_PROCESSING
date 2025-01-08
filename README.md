@@ -17,8 +17,6 @@ LeNet-5, proposed by Yann LeCun in 1998, is a classical CNN architecture designe
 2. Fully connected layers.
 3. A final classification layer using softmax.
 
-More information can be found in the [original paper](https://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf).
-
 ---
 
 ## **Implemented Features**

@@ -2,7 +2,7 @@
 
 This project implements the inference phase of the LeNet-5 Convolutional Neural Network (CNN) on a GPU using CUDA. The implementation focuses on leveraging the GPU for parallel computations to achieve significant acceleration compared to a CPU-based approach.
 
-Project Objectives
+## Project Objectives
 Learn and use CUDA for GPU programming.
 Analyze algorithmic complexity and compare GPU vs. CPU performance.
 Implement LeNet-5 inference from scratch (excluding training).
